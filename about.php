@@ -29,8 +29,8 @@ include("header.php");
                             <div class="about-thumb">
                                 <div class="info">
                                     <div class="p-relative">
-                                        <span class="count">25</span>
-                                        <span>+ Years Experience</span>
+                                        <span class="count">2003</span>
+                                        <span>Since</span>
                                     </div>
                                     <img src="assets/img/shapes/home03-about.png" alt="img">
                                 </div>
@@ -59,7 +59,70 @@ include("header.php");
             </div>
         </section>
 
+        <style>
+            .quote-item .content {
+                text-align: left;
+                margin-top: 2rem;
+            }
 
+            .quote-item ul {
+                margin: 0;
+                padding-left: 20px;
+            }
+
+            .quote-item ul li {
+                margin-bottom: 10px;
+            }
+        </style>
+<div class="quote-widget mb-5">
+    <div class="container">
+        <div class="quote-wrapper">
+            <div class="row">
+                <div class="col-lg-6 wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="0.3s">
+                    <div class="quote-item w-auto active">
+                        <div class="icon">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" fill="currentColor" class="bi bi-rocket-takeoff" viewBox="0 0 16 16">
+                                <path d="M9.752 6.193c.599.6 1.73.437 2.528-.362s.96-1.932.362-2.531c-.599-.6-1.73-.438-2.528.361-.798.8-.96 1.933-.362 2.532"/>
+                                <path d="M15.811 3.312c-.363 1.534-1.334 3.626-3.64 6.218l-.24 2.408a2.56 2.56 0 0 1-.732 1.526L8.817 15.85a.51.51 0 0 1-.867-.434l.27-1.899c.04-.28-.013-.593-.131-.956a9 9 0 0 0-.249-.657l-.082-.202c-.815-.197-1.578-.662-2.191-1.277-.614-.615-1.079-1.379-1.275-2.195l-.203-.083a10 10 0 0 0-.655-.248c-.363-.119-.675-.172-.955-.132l-1.896.27A.51.51 0 0 1 .15 7.17l2.382-2.386c.41-.41.947-.67 1.524-.734h.006l2.4-.238C9.005 1.55 11.087.582 12.623.208c.89-.217 1.59-.232 2.08-.188.244.023.435.06.57.093q.1.026.16.045c.184.06.279.13.351.295l.029.073a3.5 3.5 0 0 1 .157.721c.055.485.051 1.178-.159 2.065m-4.828 7.475.04-.04-.107 1.081a1.54 1.54 0 0 1-.44.913l-1.298 1.3.054-.38c.072-.506-.034-.993-.172-1.418a9 9 0 0 0-.164-.45c.738-.065 1.462-.38 2.087-1.006M5.205 5c-.625.626-.94 1.351-1.004 2.09a9 9 0 0 0-.45-.164c-.424-.138-.91-.244-1.416-.172l-.38.054 1.3-1.3c.245-.246.566-.401.91-.44l1.08-.107zm9.406-3.961c-.38-.034-.967-.027-1.746.163-1.558.38-3.917 1.496-6.937 4.521-.62.62-.799 1.34-.687 2.051.107.676.483 1.362 1.048 1.928.564.565 1.25.941 1.924 1.049.71.112 1.429-.067 2.048-.688 3.079-3.083 4.192-5.444 4.556-6.987.183-.771.18-1.345.138-1.713a3 3 0 0 0-.045-.283 3 3 0 0 0-.3-.041Z"/>
+                                <path d="M7.009 12.139a7.6 7.6 0 0 1-1.804-1.352A7.6 7.6 0 0 1 3.794 8.86c-1.102.992-1.965 5.054-1.839 5.18.125.126 3.936-.896 5.054-1.902Z"/>
+                            </svg>
+                        </div>
+                        <div class="content">
+                            <span style="text-align: center;">Mission</span>
+                            <p>At Marutham Logistics, our mission is to:</p>
+                            <ul style="list-style: disc; padding-left: 20px;">
+                                <li>Provide hassle-free, efficient relocation services.</li>
+                                <li>Ensure the safe handling and secure delivery of goods.</li>
+                                <li>Offer exceptional, personalized customer service.</li>
+                                <li>Promote eco-friendly and sustainable practices.</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="0.4s">
+                    <div class="quote-item w-auto active">
+                        <div class="icon">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" fill="currentColor" class="bi bi-eye" viewBox="0 0 16 16">
+                                <path d="M16 8s-3-5.5-8-5.5S0 8 0 8s3 5.5 8 5.5S16 8 16 8M1.173 8a13 13 0 0 1 1.66-2.043C4.12 4.668 5.88 3.5 8 3.5s3.879 1.168 5.168 2.457A13 13 0 0 1 14.828 8q-.086.13-.195.288c-.335.48-.83 1.12-1.465 1.755C11.879 11.332 10.119 12.5 8 12.5s-3.879-1.168-5.168-2.457A13 13 0 0 1 1.172 8z"/>
+                                <path d="M8 5.5a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5M4.5 8a3.5 3.5 0 1 1 7 0 3.5 3.5 0 0 1-7 0"/>
+                            </svg>
+                        </div>
+                        <div class="content">
+                            <span style="text-align: center;">Vision</span>
+                            <p>Our vision is to:</p>
+                            <ul style="list-style: disc; padding-left: 20px;">
+                                <li>Be a leader in the logistics industry in Coimbatore and beyond.</li>
+                                <li>Expand globally, offering reliable international relocation services.</li>
+                                <li>Embrace innovation to continually improve efficiency.</li>
+                                <li>Set new benchmarks in customer satisfaction and service excellence.</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
 
 <!-- Work Section Start -->
@@ -133,6 +196,7 @@ include("header.php");
         </div>
     </div>
 </section><br><br>
+
 
 
  <!-- Choose-us-section Start -->
@@ -214,6 +278,43 @@ include("header.php");
             </div>
         </section>
 
+        <section class="work-area fix">
+            <div class="work-wrapper work-style-2 section-padding">
+                <img src="assets/img/shapes/plane-up.png" alt="img" class="shape float-bob-y">
+                <div class="container">
+                    <div class="row align-items-center">
+                        <div class="col-lg-7">
+                            <div class="work-title">
+                                <div class="title">
+                                    <!-- <span class="title-sm split_chars"><img src="assets/img/icon/icon-1-car.svg" alt="icon">Why</span> -->
+                                    <h1 class="section__title__48-white title_anim">Why</h1>
+                                    <h3 class="section__title__48-white title_anim">Marutham Logistics?</h3>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-5">
+                            <div class="work-content">
+                                <ul>
+                                    <li><p>
+                                        <b>1. Expertise:</b> Years of experience in the logistics industry, providing reliable and efficient services.
+                                    </p></li>
+                                    <li><p>
+                                        <b>2. Customer-Centric Approach:</b> We prioritize your needs, offering personalized solutions that ensure a stress-free moving experience.
+                                    </p></li>
+                                    <li><p>
+                                        <b>3. End-to-End Services:</b> From packing and transporting to storing and delivering, we handle everything so you can focus on settling in.
+                                    </p></li>
+                                    <li><p>
+                                        <b>4. Local and Global Reach:</b> Whether you’re moving within Coimbatore or internationally, Marutham Logistics has the network and resources to make it happen smoothly.
+                                    </p></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
 
 <!-- testimonial Section Start -->
 <section class="testimonial-area fix">
@@ -244,26 +345,12 @@ include("header.php");
                                     <img class="img-2" src="assets/img/shapes/testimonial.png" alt="img">
                                 </div>
                                 <div class="author">
-                                    <div class="image">
-                                        <img src="assets/img/testimonial/author-1.png" alt="img">
-                                    </div>
                                     <div class="text">
-                                        <h4 class="section-24-black">Cameron Williamson</h4>
-                                        <span>Ceo & Founder</span>
-                                    </div>
-                                    <div class="rating">
-                                        <i class="fa-sharp fa-solid fa-star"></i>
-                                        <i class="fa-sharp fa-solid fa-star"></i>
-                                        <i class="fa-sharp fa-solid fa-star"></i>
-                                        <i class="fa-sharp fa-solid fa-star"></i>
-                                        <i class="fa-sharp fa-solid fa-star"></i>
+                                        <h4 class="section-24-black">Smooth International Move</h4>
                                     </div>
                                 </div>
                                 <div class="content">
-                                    <p>The most advanced revenue than this. Iwill refer everyone 
-                                        I like Level more and more each day because it makes my
-                                        easier. It really saves me time and effort. Level is exactly
-                                        business has been lacking.</p>
+                                    <p>The team at Marutham Logistics exceeded our expectations with their exceptional service and dedication to ensuring everything arrived safely.</p>
                                 </div>
                             </div>
                         </div>
@@ -274,26 +361,12 @@ include("header.php");
                                     <img class="img-2" src="assets/img/shapes/testimonial.png" alt="img">
                                 </div>
                                 <div class="author">
-                                    <div class="image">
-                                        <img src="assets/img/testimonial/author-1.png" alt="img">
-                                    </div>
                                     <div class="text">
-                                        <h4 class="section-24-black">Cameron Williamson</h4>
-                                        <span>Ceo & Founder</span>
-                                    </div>
-                                    <div class="rating">
-                                        <i class="fa-sharp fa-solid fa-star"></i>
-                                        <i class="fa-sharp fa-solid fa-star"></i>
-                                        <i class="fa-sharp fa-solid fa-star"></i>
-                                        <i class="fa-sharp fa-solid fa-star"></i>
-                                        <i class="fa-sharp fa-solid fa-star"></i>
+                                        <h4 class="section-24-black">Reliable and Professional</h4>
                                     </div>
                                 </div>
                                 <div class="content">
-                                    <p>The most advanced revenue than this. Iwill refer everyone 
-                                        I like Level more and more each day because it makes my
-                                        easier. It really saves me time and effort. Level is exactly
-                                        business has been lacking.</p>
+                                    <p>We are grateful to Marutham Logistics for their support during our international relocation. Their expertise and reliability made the process smooth and worry-free.</p>
                                 </div>
                             </div>
                         </div>
@@ -304,86 +377,12 @@ include("header.php");
                                     <img class="img-2" src="assets/img/shapes/testimonial.png" alt="img">
                                 </div>
                                 <div class="author">
-                                    <div class="image">
-                                        <img src="assets/img/testimonial/author-1.png" alt="img">
-                                    </div>
                                     <div class="text">
-                                        <h4 class="section-24-black">Cameron Williamson</h4>
-                                        <span>Ceo & Founder</span>
-                                    </div>
-                                    <div class="rating">
-                                        <i class="fa-sharp fa-solid fa-star"></i>
-                                        <i class="fa-sharp fa-solid fa-star"></i>
-                                        <i class="fa-sharp fa-solid fa-star"></i>
-                                        <i class="fa-sharp fa-solid fa-star"></i>
-                                        <i class="fa-sharp fa-solid fa-star"></i>
+                                        <h4 class="section-24-black">Satisfied Clients</h4>
                                     </div>
                                 </div>
                                 <div class="content">
-                                    <p>The most advanced revenue than this. Iwill refer everyone 
-                                        I like Level more and more each day because it makes my
-                                        easier. It really saves me time and effort. Level is exactly
-                                        business has been lacking.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="slider-wrap">
-                                <div class="shapes">
-                                    <img class="img-1" src="assets/img/icon/quoteduble.svg" alt="img">
-                                    <img class="img-2" src="assets/img/shapes/testimonial.png" alt="img">
-                                </div>
-                                <div class="author">
-                                    <div class="image">
-                                        <img src="assets/img/testimonial/author-1.png" alt="img">
-                                    </div>
-                                    <div class="text">
-                                        <h4 class="section-24-black">Cameron Williamson</h4>
-                                        <span>Ceo & Founder</span>
-                                    </div>
-                                    <div class="rating">
-                                        <i class="fa-sharp fa-solid fa-star"></i>
-                                        <i class="fa-sharp fa-solid fa-star"></i>
-                                        <i class="fa-sharp fa-solid fa-star"></i>
-                                        <i class="fa-sharp fa-solid fa-star"></i>
-                                        <i class="fa-sharp fa-solid fa-star"></i>
-                                    </div>
-                                </div>
-                                <div class="content">
-                                    <p>The most advanced revenue than this. Iwill refer everyone 
-                                        I like Level more and more each day because it makes my
-                                        easier. It really saves me time and effort. Level is exactly
-                                        business has been lacking.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="slider-wrap">
-                                <div class="shapes">
-                                    <img class="img-1" src="assets/img/icon/quoteduble.svg" alt="img">
-                                    <img class="img-2" src="assets/img/shapes/testimonial.png" alt="img">
-                                </div>
-                                <div class="author">
-                                    <div class="image">
-                                        <img src="assets/img/testimonial/author-1.png" alt="img">
-                                    </div>
-                                    <div class="text">
-                                        <h4 class="section-24-black">Cameron Williamson</h4>
-                                        <span>Ceo & Founder</span>
-                                    </div>
-                                    <div class="rating">
-                                        <i class="fa-sharp fa-solid fa-star"></i>
-                                        <i class="fa-sharp fa-solid fa-star"></i>
-                                        <i class="fa-sharp fa-solid fa-star"></i>
-                                        <i class="fa-sharp fa-solid fa-star"></i>
-                                        <i class="fa-sharp fa-solid fa-star"></i>
-                                    </div>
-                                </div>
-                                <div class="content">
-                                    <p>The most advanced revenue than this. Iwill refer everyone 
-                                        I like Level more and more each day because it makes my
-                                        easier. It really saves me time and effort. Level is exactly
-                                        business has been lacking.</p>
+                                    <p>Marutham Logistics made our relocation stress-free and seamless. Their professional approach and attention to detail were impressive.</p>
                                 </div>
                             </div>
                         </div>

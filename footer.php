@@ -10,14 +10,14 @@
                     <div class="col-lg-3 col-md-6">
                         <div class="footer-content">
                             <div class="footer-logo">
-                                <a href="index.html"><img src="assets/img/logo/logo-2.png" alt="img"></a>
+                                <a href="index.php"><img src="assets/img/logo/logo-2.png" style="border-radius: 4rem;" alt="img"></a>
                             </div>
                             <p class="clr-white-2">Marudham Logistics, based in Coimbatore, is your trusted partner for Packers and Movers services in India and internationally.</p>
                             <div class="footer-social">
-                                <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a href="#"><i class="fab fa-instagram"></i></a>
-                                <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                                <a href="#"><i class="fab fa-whatsapp"></i></a>
+                                <a href="https://www.facebook.com/profile.php?id=61566456671646"><i class="fab fa-facebook-f"></i></a>
+                                <a href="https://www.instagram.com/marudham_logistics/"><i class="fab fa-instagram"></i></a>
+                                <a href="http://linkedin.com/company/marudham-logistics/"><i class="fab fa-linkedin-in"></i></a>
+                                <a href="https://wa.me/+918122517891"><i class="fab fa-whatsapp"></i></a>
                             </div>
                         </div>
                     </div>
@@ -35,12 +35,12 @@
                         <div class="quiklinks quiklinks-2">
                             <h4 class="section-24">Our Services</h4>
                             <ul>
-                                <li><a href="#0"><i class="fa-sharp fa-solid fa-angles-right"></i>Loading Unloading</a></li>
-                                <li><a href="#0"><i class="fa-sharp fa-solid fa-angles-right"></i>National & International</a></li>
-                                <li><a href="#0"><i class="fa-sharp fa-solid fa-angles-right"></i>Insurance Coverage</a></li>
-                                <li><a href="#0"><i class="fa-sharp fa-solid fa-angles-right"></i>Car & Bike Transport</a></li>
-                                <li><a href="#0"><i class="fa-sharp fa-solid fa-angles-right"></i>Commercial Shifting</a></li>
-                                <li><a href="#0"><i class="fa-sharp fa-solid fa-angles-right"></i>Warehouse Facility</a></li>
+                                <li><a href="s1.php"><i class="fa-sharp fa-solid fa-angles-right"></i>Loading Unloading</a></li>
+                                <li><a href="s2.php"><i class="fa-sharp fa-solid fa-angles-right"></i>National & International</a></li>
+                                <li><a href="s3.php"><i class="fa-sharp fa-solid fa-angles-right"></i>Insurance Coverage</a></li>
+                                <li><a href="s4.php"><i class="fa-sharp fa-solid fa-angles-right"></i>Car & Bike Transport</a></li>
+                                <li><a href="s5.php"><i class="fa-sharp fa-solid fa-angles-right"></i>Commercial Shifting</a></li>
+                                <li><a href="s6.php"><i class="fa-sharp fa-solid fa-angles-right"></i>Warehouse Facility</a></li>
                             </ul>
                         </div>
                     </div>
@@ -59,7 +59,7 @@
                     <div class="row justify-content-between">
                         <div class="col-lg-6 col-md-6">
                             <div class="footer-copyright">
-                                <span>Desinged and Developed By Trymywebsites</span>
+                                <span>Desinged and Developed By <a href="https://trymywebsites.com/">Trymywebsites</a></span>
                             </div>
                         </div>
                         

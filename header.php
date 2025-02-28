@@ -13,7 +13,7 @@
         <!-- ======== Page title ============ -->
         <title>Marudham Logistics</title>
         <!--<< Favcion >>-->
-        <link rel="shortcut icon" href="assets/img/favicon.svg">
+        <link rel="shortcut icon" href="assets/img/favicon.png">
         <!--<< Bootstrap min.css >>-->
         <link rel="stylesheet" href="assets/css/bootstrap.min.css">
         <!--<< All Min Css >>-->
@@ -127,7 +127,7 @@
                         <div class="offcanvas__top mb-5 d-flex justify-content-between align-items-center">
                             <div class="offcanvas__logo">
                                 <a href="index.html">
-                                    <img src="assets/img/logo/logo-1.png" alt="logo-img">
+                                    <img src="assets/img/logo/logo-1.png" style="border-radius: 4rem;" alt="logo-img">
                                 </a>
                             </div>
                             <div class="offcanvas__close">
@@ -177,15 +177,15 @@
                                 </li>
                             </ul>
                             <div class="header-button mt-4">
-                                <a href="contact-us.html" class="btn-read text-center">
-                                    <span>get A Quote<i class="fa-solid fa-arrow-right-long"></i></span>
+                                <a href="https://wa.me/+918122517891" class="btn-read text-center">
+                                    <span>Get A Quote<i class="fa-solid fa-arrow-right-long"></i></span>
                                 </a>
                             </div>
-                            <div class="social-icon d-flex align-items-center">
-                                <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a href="#"><i class="fab fa-instagram"></i></a>
-                                <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                                <a href="#"><i class="fab fa-whatsapp"></i></a>
+                            <div class="social-icon d-flex align-items-center pb-4">
+                                <a href="https://www.facebook.com/profile.php?id=61566456671646"><i class="fab fa-facebook-f"></i></a>
+                                <a href="https://www.instagram.com/marudham_logistics/"><i class="fab fa-instagram"></i></a>
+                                <a href="http://linkedin.com/company/marudham-logistics/"><i class="fab fa-linkedin-in"></i></a>
+                                <a href="https://wa.me/+918122517891"><i class="fab fa-whatsapp"></i></a>
                             </div>
                         </div>
                     </div>
@@ -206,10 +206,10 @@
                         <div class="col-lg-2">
                             <div class="logo">
                                 <a href="index.html" class="header-logo ">
-                                    <img src="assets/img/logo/logo-1.png" alt="logo-img">
+                                    <img src="assets/img/logo/logo-1.png" style="border-radius: 4rem;" alt="logo-img">
                                 </a>
                                 <a href="index.html" class="header-logo-2">
-                                    <img src="assets/img/logo/logo-white.png" alt="logo-img">
+                                    <img src="assets/img/logo/logo-white.png" style="border-radius: 4rem;" alt="logo-img">
                                 </a>
                             </div>
                         </div>
@@ -230,12 +230,12 @@
                                                     <i class="fa-regular fa-plus"></i>
                                                 </a>
                                                 <ul class="submenu">
-                                                    <li><a href="#0">Loading Unloading</a></li>
-                                                    <li><a href="#0">National & International</a></li>
-                                                    <li><a href="#0">Insurance Coverage</a></li>
-                                                    <li><a href="#0">Car & Bike Transport</a></li>
-                                                    <li><a href="#0">Commercial Shifting</a></li>
-                                                    <li><a href="#0">Warehouse Facility</a></li>
+                                                    <li><a href="s1.php">Loading Unloading</a></li>
+                                                    <li><a href="s2.php">National & International</a></li>
+                                                    <li><a href="s3.php">Insurance Coverage</a></li>
+                                                    <li><a href="s4.php">Car & Bike Transport</a></li>
+                                                    <li><a href="s5.php">Commercial Shifting</a></li>
+                                                    <li><a href="s6.php">Warehouse Facility</a></li>
                                                 </ul>
                                             </li>
                                             <li>
@@ -254,7 +254,7 @@
                                 </div>
                                 <div class="header-btn">
                                     <div class="btn-box">
-                                        <a class="btn-read" href="tel:+918122517891">Get A Quote <i class="fa-regular fa-arrow-right-long"></i></a>
+                                        <a class="btn-read" href="https://wa.me/+918122517891">Get A Quote <i class="fa-regular fa-arrow-right-long"></i></a>
                                     </div>
                                 </div>
                             </div>
