@@ -4016,6 +4016,7 @@ textarea {
 @media (max-width: 767px) {
   .sticky.header-2 .logo img {
     max-width: 80%;
+    right: 21px;
   }
 }
 @media (max-width: 1600px) {

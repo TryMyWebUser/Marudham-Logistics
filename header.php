@@ -162,8 +162,8 @@
                     <div class="offcanvas__content">
                         <div class="offcanvas__top mb-5 d-flex justify-content-between align-items-center">
                             <div class="offcanvas__logo">
-                                <a href="index.html">
-                                    <img src="assets/img/logo/logo-1.png" style="border-radius: 4rem;" alt="logo-img">
+                                <a href="index.php">
+                                    <img src="assets/img/logo/logo-1.png" style="border-radius: 4rem; width: -webkit-fill-available;" alt="logo-img">
                                 </a>
                             </div>
                             <div class="offcanvas__close">
@@ -241,11 +241,11 @@
                     <div class="row align-items-center">
                         <div class="col-lg-2">
                             <div class="logo">
-                                <a href="index.html" class="header-logo ">
+                                <a href="index.php" class="header-logo ">
                                     <img src="assets/img/logo/logo-1.png" style="border-radius: 4rem;" alt="logo-img">
                                 </a>
-                                <a href="index.html" class="header-logo-2">
-                                    <img src="assets/img/logo/logo-white.png" style="border-radius: 4rem;" alt="logo-img">
+                                <a href="index.php" class="header-logo-2">
+                                    <img src="assets/img/logo/logo-white.png" style="border-radius: 4rem; width: 13rem; position: relative;" alt="logo-img">
                                 </a>
                             </div>
                         </div>
@@ -253,7 +253,7 @@
                             <div class="mean__menu-wrapper">
                                 <div class="main-menu ">
                                     <nav id="mobile-menu">
-                                        <ul>
+                                        <ul style="display: flex; justify-content: center;">
                                             <li>
                                                 <a href="index.php">Home</a>
                                             </li>

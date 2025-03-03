@@ -10,7 +10,7 @@
                     <div class="col-lg-3 col-md-6">
                         <div class="footer-content">
                             <div class="footer-logo">
-                                <a href="index.php"><img src="assets/img/logo/logo-2.png" style="border-radius: 4rem;" alt="img"></a>
+                                <a href="index.php"><img src="assets/img/logo/logo-white.png" style="width: -webkit-fill-available;" alt="img"></a>
                             </div>
                             <p class="clr-white-2">Marudham Logistics, based in Coimbatore, is your trusted partner for Packers and Movers services in India and internationally.</p>
                             <div class="footer-social">
