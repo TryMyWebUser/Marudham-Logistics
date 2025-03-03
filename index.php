@@ -16,7 +16,7 @@ include("header.php");
                                 <p class="fadeInUp wow" data-wow-duration="1.5s" data-wow-delay="0.4s">Marudham Logistics, based in Coimbatore, is your trusted partner for Packers and Movers services in India and internationally.</p>
                                 <div class="hero-btn fadeInUp wow" data-wow-duration="1.5s" data-wow-delay="0.7s">
                                     <div class="btn-box">
-                                        <a class="btn-read-white" href="https://wa.me/+918122517891">Get A Quote<i class="fa-regular fa-arrow-right-long"></i></a>
+                                        <a class="btn-read-white" href="https://wa.me/+918122517891">For Enquiry<i class="fa-regular fa-arrow-right-long"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -35,16 +35,18 @@ include("header.php");
                     <div class="row g-4">
                         <div class="col-lg-7">
                             <div class="about-left-thumb">
-                                <img class="thumb-img" src="assets/img/blog/about-home-02-01.jpg" alt="img">
-                                <img class="img-1 p-absolute" src="assets/img/blog/about-home02-02.png" alt="img">
-                                <img class="img-2 p-absolute" src="assets/img/blog/about-home02-03.png" alt="img">
+                                <img class="thumb-img" src="assets/img/blog/about-home-02-01.png" alt="img">
+                                <!-- <img class="img-1 p-absolute" src="assets/img/blog/about-home02-02.png" alt="img"> -->
+                                <img class="img-2 p-absolute" src="assets/img/blog/about-home02-03.jpg" style="border-radius: 2rem;" alt="img">
                                 <img class="img-3 p-absolute float-bob-y" src="assets/img/shapes/home02-about-01.png" alt="img">
                             </div>
                         </div>
                         <div class="col-lg-5">
                             <div class="about-right-content">
                                 <div class="title">
-                                    <span class="title-sm split_chars"><img src="assets/img/icon/icon-1-car.svg" alt="icon">About Company</span>
+                                    <span class="title-sm split_chars">
+                                        <img src="assets/img/icon/icon-1-car.svg" alt="icon">About Company
+                                    </span>
                                     <h2 class="section__title title_anim">Marudham Logistics</h2>
                                 </div>
                                 <p class="fst">Marudham Logistics, based in Coimbatore, is your trusted partner for Packers and Movers services in India and internationally. With years of expertise, we specialize in efficient household, office, and industrial relocation, ensuring the safe transportation and storage of your belongings. Our commitment to reliability and customer satisfaction makes us a leader in the logistics industry. Whether you're moving locally within Coimbatore or across borders, Marutham Logistics is here to make your transition smooth and hassle-free.</p>
@@ -174,14 +176,14 @@ include("header.php");
                         <div class="col-md-6 col-lg-4 col-xl-3 space wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="0.3s">
                             <div class="blog-thumb mb-0">
                                 <div class="blog-image">
-                                    <img src="assets/img/blog/home03-1.jpg" alt="img">
+                                    <img src="assets/marudham details/6.jpg" alt="img">
                                 </div>
                                 <div class="blog-content">
-                                    <h5 class="blog-heading"><a href="service-details.html">Loading Unloading</a></h5>
+                                    <h5 class="blog-heading"><a href="s1.php">Loading Unloading</a></h5>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-6 col-lg-4 col-xl-3 space wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="0.5s">
+                        <!-- <div class="col-md-6 col-lg-4 col-xl-3 space wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="0.5s">
                             <div class="blog-thumb mb-0">
                                 <div class="blog-image">
                                     <img src="assets/img/blog/home03-2.jpg" alt="img">
@@ -190,15 +192,37 @@ include("header.php");
                                     <h5 class="blog-heading"><a href="service-details.html">National & International</a></h5>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                         <div class="col-md-6 col-lg-4 col-xl-3 space wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="0.7s">
                             <div class="blog-thumb
                             mb-0">
                                 <div class="blog-image">
-                                    <img src="assets/img/blog/home03-3.jpg" alt="img">
+                                    <img src="assets/img/blog/6.png" alt="img">
                                 </div>
                                 <div class="blog-content">
-                                    <h5 class="blog-heading"><a href="service-details.html">Insurance Coverage</a></h5>
+                                    <h5 class="blog-heading"><a href="s3.php">Insurance Coverage</a></h5>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- <div class="col-md-6 col-lg-4 col-xl-3 space wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="0.9s">
+                            <div class="blog-thumb
+                            mb-0">
+                                <div class="blog-image">
+                                    <img src="assets/img/blog/home03-4.jpg" alt="img">
+                                </div>
+                                <div class="blog-content">
+                                    <h5 class="blog-heading"><a href="s4.php">Car & Bike Transport</a></h5>
+                                </div>
+                            </div>
+                        </div> -->
+                        <div class="col-md-6 col-lg-4 col-xl-3 space wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="0.7s">
+                            <div class="blog-thumb
+                            mb-0">
+                                <div class="blog-image">
+                                    <img src="assets/marudham details/13.jpg" alt="img">
+                                </div>
+                                <div class="blog-content">
+                                    <h5 class="blog-heading"><a href="s5.php">Commercial Shifting</a></h5>
                                 </div>
                             </div>
                         </div>
@@ -206,32 +230,10 @@ include("header.php");
                             <div class="blog-thumb
                             mb-0">
                                 <div class="blog-image">
-                                    <img src="assets/img/blog/home03-4.jpg" alt="img">
+                                    <img src="assets/img/blog/1.png" alt="img">
                                 </div>
                                 <div class="blog-content">
-                                    <h5 class="blog-heading"><a href="service-details.html">Car & Bike Transport</a></h5>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-6 col-lg-4 col-xl-3 space wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="0.7s">
-                            <div class="blog-thumb
-                            mb-0">
-                                <div class="blog-image">
-                                    <img src="assets/img/blog/home03-3.jpg" alt="img">
-                                </div>
-                                <div class="blog-content">
-                                    <h5 class="blog-heading"><a href="service-details.html">Commercial Shifting</a></h5>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-6 col-lg-4 col-xl-3 space wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="0.9s">
-                            <div class="blog-thumb
-                            mb-0">
-                                <div class="blog-image">
-                                    <img src="assets/img/blog/home03-4.jpg" alt="img">
-                                </div>
-                                <div class="blog-content">
-                                    <h5 class="blog-heading"><a href="service-details.html">Warehouse Facility</a></h5>
+                                    <h5 class="blog-heading"><a href="s6.php">Warehouse Facility</a></h5>
                                 </div>
                             </div>
                         </div>
@@ -254,105 +256,105 @@ include("header.php");
                             <div class="swiper-slide fadeInUp wow" data-wow-duration="1.5s" data-wow-delay="0.3s">
                                 <div class="single-slider">
                                     <div class="slider-box">
-                                        <img src="assets/marudham details/1.jpg" alt="img">
+                                        <img src="assets/marudham details/gallery/1.png" alt="img">
                                     </div>
                                 </div>
                             </div>
                             <div class="swiper-slide fadeInUp wow" data-wow-duration="1.5s" data-wow-delay="0.6s">
                                 <div class="single-slider">
                                     <div class="slider-box ">
-                                        <img src="assets/marudham details/2.jpg" alt="img">
+                                        <img src="assets/marudham details/gallery/2.png" alt="img">
                                     </div>
                                 </div>
                             </div>
                             <div class="swiper-slide fadeInUp wow" data-wow-duration="1.5s" data-wow-delay="0.9s">
                                 <div class="single-slider">
                                     <div class="slider-box">
-                                        <img src="assets/marudham details/3.jpg" alt="img">
+                                        <img src="assets/marudham details/gallery/3.png" alt="img">
                                     </div>
                                 </div>
                             </div>
                             <div class="swiper-slide fadeInUp wow" data-wow-duration="1.5s" data-wow-delay="1.2s">
                                 <div class="single-slider">
                                     <div class="slider-box">
-                                        <img src="assets/marudham details/4.jpg" alt="img">
+                                        <img src="assets/marudham details/gallery/4.png" alt="img">
                                     </div>
                                 </div>
                             </div>
                             <div class="swiper-slide fadeInUp wow" data-wow-duration="1.5s" data-wow-delay="0.3s">
                                 <div class="single-slider">
                                     <div class="slider-box">
-                                        <img src="assets/marudham details/5.jpg" alt="img">
+                                        <img src="assets/marudham details/gallery/5.png" alt="img">
                                     </div>
                                 </div>
                             </div>
                             <div class="swiper-slide fadeInUp wow" data-wow-duration="1.5s" data-wow-delay="0.6s">
                                 <div class="single-slider">
                                     <div class="slider-box ">
-                                        <img src="assets/marudham details/6.jpg" alt="img">
+                                        <img src="assets/marudham details/gallery/6.png" alt="img">
                                     </div>
                                 </div>
                             </div>
                             <div class="swiper-slide fadeInUp wow" data-wow-duration="1.5s" data-wow-delay="0.9s">
                                 <div class="single-slider">
                                     <div class="slider-box">
-                                        <img src="assets/marudham details/7.jpg" alt="img">
+                                        <img src="assets/marudham details/gallery/7.png" alt="img">
                                     </div>
                                 </div>
                             </div>
                             <div class="swiper-slide fadeInUp wow" data-wow-duration="1.5s" data-wow-delay="1.2s">
                                 <div class="single-slider">
                                     <div class="slider-box">
-                                        <img src="assets/marudham details/8.jpg" alt="img">
+                                        <img src="assets/marudham details/gallery/8.png" alt="img">
                                     </div>
                                 </div>
                             </div>
                             <div class="swiper-slide fadeInUp wow" data-wow-duration="1.5s" data-wow-delay="0.3s">
                                 <div class="single-slider">
                                     <div class="slider-box">
-                                        <img src="assets/marudham details/9.jpg" alt="img">
+                                        <img src="assets/marudham details/gallery/9.png" alt="img">
                                     </div>
                                 </div>
                             </div>
                             <div class="swiper-slide fadeInUp wow" data-wow-duration="1.5s" data-wow-delay="0.6s">
                                 <div class="single-slider">
                                     <div class="slider-box ">
-                                        <img src="assets/marudham details/10.jpg" alt="img">
+                                        <img src="assets/marudham details/gallery/10.png" alt="img">
                                     </div>
                                 </div>
                             </div>
                             <div class="swiper-slide fadeInUp wow" data-wow-duration="1.5s" data-wow-delay="0.9s">
                                 <div class="single-slider">
                                     <div class="slider-box">
-                                        <img src="assets/marudham details/11.jpg" alt="img">
+                                        <img src="assets/marudham details/gallery/11.png" alt="img">
                                     </div>
                                 </div>
                             </div>
                             <div class="swiper-slide fadeInUp wow" data-wow-duration="1.5s" data-wow-delay="1.2s">
                                 <div class="single-slider">
                                     <div class="slider-box">
-                                        <img src="assets/marudham details/12.jpg" alt="img">
+                                        <img src="assets/marudham details/gallery/12.png" alt="img">
                                     </div>
                                 </div>
                             </div>
                             <div class="swiper-slide fadeInUp wow" data-wow-duration="1.5s" data-wow-delay="0.6s">
                                 <div class="single-slider">
                                     <div class="slider-box ">
-                                        <img src="assets/marudham details/13.jpg" alt="img">
+                                        <img src="assets/marudham details/gallery/13.png" alt="img">
                                     </div>
                                 </div>
                             </div>
                             <div class="swiper-slide fadeInUp wow" data-wow-duration="1.5s" data-wow-delay="0.9s">
                                 <div class="single-slider">
                                     <div class="slider-box">
-                                        <img src="assets/marudham details/14.jpg" alt="img">
+                                        <img src="assets/marudham details/gallery/14.png" alt="img">
                                     </div>
                                 </div>
                             </div>
                             <div class="swiper-slide fadeInUp wow" data-wow-duration="1.5s" data-wow-delay="1.2s">
                                 <div class="single-slider">
                                     <div class="slider-box">
-                                        <img src="assets/marudham details/15.jpg" alt="img">
+                                        <img src="assets/marudham details/gallery/15.png" alt="img">
                                     </div>
                                 </div>
                             </div>

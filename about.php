@@ -34,8 +34,8 @@ include("header.php");
                                     </div>
                                     <img src="assets/img/shapes/home03-about.png" alt="img">
                                 </div>
-                                <img src="assets/img/thumb/home03-about.jpg" alt="img" data-wow-duration="1.5s" data-wow-delay="0.3s">
-                                <img class="shape-image float-bob-y" src="assets/img/thumb/home03-about-2.png" alt="img">
+                                <img src="assets/img/home03-about.png" style="border-radius: 1rem;" class="pe-3" alt="img" data-wow-duration="1.5s" data-wow-delay="0.3s">
+                                <img class="shape-image float-bob-y" style="box-shadow: 0 0 0 3px #fff; border-radius: 1rem; width: 15rem;" src="assets/img/home03-about-2.png" alt="img">
                             </div>
                         </div>
                         <div class="col-lg-6">
@@ -264,13 +264,13 @@ include("header.php");
                         </div>
                         <div class="col-lg-5">
                             <div class="choose-us-thumb">
-                                <img src="assets/img/choose-us/01.jpg" alt="img">
-                                <div class="thumb-2">
+                                <img src="assets/img/choose-us/01.png" alt="img">
+                                <!-- <div class="thumb-2">
                                     <img src="assets/img/choose-us/02.jpg" alt="img">
                                     <div class="video">
                                         <a href="https://www.youtube.com/watch?v=-VrUFPDYRGs" class="play-btn video-popup"><i class="fas fa-solid fa-play"></i></a>
                                     </div>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                     </div>
@@ -286,15 +286,19 @@ include("header.php");
                         <div class="col-lg-7">
                             <div class="work-title">
                                 <div class="title">
+                                    <img src="assets/img/blog/foqlip.jpg" style="border-radius: 2rem; width: -webkit-fill-available;" alt="img">
                                     <!-- <span class="title-sm split_chars"><img src="assets/img/icon/icon-1-car.svg" alt="icon">Why</span> -->
-                                    <h1 class="section__title__48-white title_anim">Why</h1>
-                                    <h3 class="section__title__48-white title_anim">Marutham Logistics?</h3>
+                                    <!-- <h1 class="section__title__48-white title_anim">Why</h1>
+                                    <h3 class="section__title__48-white title_anim">Marutham Logistics?</h3> -->
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-5">
                             <div class="work-content">
                                 <ul>
+                                    <li class="mt-4">
+                                        <h3 class="section__title__48-white title_anim">Why Marutham Logistics?</h3>
+                                    </li>
                                     <li><p>
                                         <b>1. Expertise:</b> Years of experience in the logistics industry, providing reliable and efficient services.
                                     </p></li>

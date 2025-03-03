@@ -108,5 +108,6 @@
         <script src="assets/js/main.js"></script>
     </body>
 
+    <a href="https://wa.me/+918122517891" class="whatsapp_float" target="_blank"> <i class="fa fa-whatsapp whatsapp-icon"></i></a>
 
 </html>

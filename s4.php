@@ -9,12 +9,12 @@ include("header.php");
             <div class="breadcrumb-style-1" data-background="assets/img/bg/breadcrumb.png">
                 <img class="shape" src="assets/img/shapes/breadcrumb.png" alt="img">
                 <div class="container">
-                    <h1 class="breadcrumb-title">Services</h1>
+                    <h1 class="breadcrumb-title">Car & Bike Transport</h1>
                     <div class="breadcrumb-list">
                         <span><a href="index.php">Home</a></span>
                         <span><i class="fa-regular fa-angles-right"></i></span>
-                        <span class="active"><a>Services</a></span>
-                        <span><i class="fa-regular fa-angles-right"></i></span>
+                        <!-- <span class="active"><a>Services</a></span>
+                        <span><i class="fa-regular fa-angles-right"></i></span> -->
                         <span class="active"><a href="s4.php">Car & Bike Transport</a></span>
                         <!-- <p class="fadeInUp wow" data-wow-duration="1.5s" data-wow-delay="0.4s" style="visibility: visible; animation-duration: 1.5s; animation-delay: 0.4s; animation-name: fadeInUp;">Comprehensive Moving Solutions – From secure storage to professional packing, reliable transportation, and insured peace of mind, Marutham Logistics offers seamless services tailored to your every need.</p> -->
                     </div>
